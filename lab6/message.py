@@ -1,0 +1,12 @@
+from collections import deque
+
+messages = deque( [ 'Message #1',
+					'Message #2',
+					'Message #3',
+					'Message #4',
+					'Message #5',
+					'Message #6',
+					'Message #7',
+					'Message #8',
+					'Message #9',
+					'Message #10'])
